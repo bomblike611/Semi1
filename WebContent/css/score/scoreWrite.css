@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+textarea{
+	width: 700px;
+	height: 200px;
+	padding: 10px 10px;
+	
+}
+
+.star-input{
+	position: relative;
+	right: 450px;
+	top: 70px;
+}
+
+.output{
+	position: relative;
+	left: 75px;
+	bottom: 25px;
+}
+
+#savebutton{
+	padding: 30px 20px;
+	background-color: #5F4B8B;
+	color: white;
+	text-decoration: none;
+	border: 0.5px solid #5F4B8B;
+}
+
+#savebutton:hover{
+	background-color: white;
+	color: #5F4B8B;
+}
+
+#savebutton_div{
+	position: relative;
+	left:420px;
+	bottom: 205px;
+} 
+
+#id_input{
+	position: relative;
+	right: 390px;
+	top: 75px;
+}
+
+#score_div{
+	position: relative;
+	left: 8px;
+	
+}
+
+
+
+

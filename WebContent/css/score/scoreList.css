@@ -1,0 +1,180 @@
+@charset "UTF-8";
+body{
+	background-image: url("/Semi_1/img/background/cream_pixels.png");
+	background-repeat: repeat;
+}
+
+.div_page{
+	font-size: 12px;
+	margin: auto;
+	text-align:center; 
+}
+
+section{
+	width: 65%;
+	height: auto;
+	background-color: white;
+	vertical-align: middle;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin: 0 auto;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.list{
+	padding: 0.2em 0.2em;
+	width: 20px;
+	background-color: white;
+	color: black;
+	text-decoration: none;
+	border: 1px solid gray;
+}
+
+.list:hover{
+	background-color: whiteSmoke;
+	color: black;
+}
+
+
+#comment{
+	float: left;
+	padding-left: 20px;
+	font-weight: bolder;
+}
+
+.score{
+	padding-top: 100px;
+	border-bottom: 1px dashed silver;
+}
+
+#storeheader{
+	font-family: 'Poppins','Nanum Gothic', sans-serif;
+	padding-top: 98px;
+  	list-style-type: none;
+  	text-align: center;
+}
+
+.score_list{
+	position: relative;
+	right: 52px;
+	vertical-align: middle;
+	border-bottom: 1px solid silver;
+	width: 700px;
+	height: 200px;
+	margin-left: 300px;
+	table-layout: fixed;
+}
+
+/* 
+.score_table{
+	margin-top: 100px;
+	margin-bottom: 30px;
+	margin-left:50px;
+	vertical-align: middle;
+	width: 90%;
+	border-collapse: seperate;
+	border-spacing: 1px;
+    line-height: 1.5;
+    border-top: 1px solid #ccc;
+ 	margin : 50px 10px 20px 10px;
+	table-layout: fixed;
+}
+
+.score_table td{
+	font-size: 12px;
+	padding: 5px;
+	vertical-align: top;
+	text-align: left;
+	border-bottom: 1px solid #ccc;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+} */
+
+.buttonList{
+	margin: 5px;
+	padding: 0.5em 1em;
+	background-color: white;
+	border: 0.5px solid silver;
+	text-decoration: none;
+	text-align: center;
+	font-size: 12px;
+	display: inline-block;
+	position: relative;
+	right: 500px;
+	bottom:30px;
+}
+
+.buttonList:hover{
+	background-color: silver;
+	color: white;
+}
+
+#table_id{
+	text-align: left;
+	padding-left: 10px;
+	color: #5F4B8B;
+	font-weight: bolder;
+	width:50px;
+}
+
+#table_point{
+	text-align: left;
+	padding-left: 10px;
+}
+
+#table_date{
+	text-align: right; 
+	padding-right: 10px;
+}
+
+.table_contents{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	vertical-align: top;
+	text-align: left;
+	padding-left: 10px;
+	overflow-x: auto;
+	word-break: break-all;
+}
+
+.table_section{
+	display: inline;
+}
+
+.button_td{
+	background-color: #5F4B8B;
+	color: white;
+	text-decoration: none;
+	vertical-align: middle;
+	padding: 0.25em 0.5em;
+	border: 0.5px solid #5F4B8B;
+	text-align: center;
+	font-size: 12px;
+	display: inline-block;
+	position: relative;
+	left: 120px;
+}
+
+.div_page{
+	padding-top: 30px;
+}
+
+.img_score{
+	height: 18px;
+}
+
+.point_span{
+	padding-left: 5px;
+	font-size: 15px;
+	font-weight: bolder;
+	vertical-align:bottom; 
+}
+
+
+
+
+
+
+

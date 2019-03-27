@@ -1,0 +1,71 @@
+@charset "UTF-8";
+
+body {
+	background-image: url("/Semi_1/img/background/cream_pixels.png");
+	background-repeat: repeat;
+}
+
+section {
+	vertical-align: middle;
+	height: auto;
+	background-color: white;
+	margin-top: 98px;
+	margin-left: 20%;
+	margin-right: 20%;
+	padding-bottom: 150px;
+}
+
+#h1{
+	vertical-align: middle;
+	padding-top: 100px;
+	padding-bottom: 90px; 	
+}
+
+#h1_h1{
+	text-align: center;
+	font-size: 40px;
+	text-transform: capitalize;
+	font-weight: 200;
+}
+
+#form{
+	border: 1px solid silver;
+	width: 1000px;
+	padding-left: 20px;
+	padding-top: 30px;
+	margin-left: 50px;
+}
+
+.frm_section{
+	padding-bottom: 20px;
+}
+
+#button{
+	margin-top: 30px;
+	padding: 0.5em 1em;
+	background-color: white;
+	color: black;
+	border: 0.5px solid silver;
+	text-decoration: none;
+	text-align: center;
+	font-size: 12px;
+	display: inline-block;
+	margin-bottom: 20px;
+}
+
+.input{
+	width: 900px;
+	height: 20px;
+}
+
+#textarea{
+	height: 300px;
+}
+
+
+
+
+
+
+
+

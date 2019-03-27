@@ -1,0 +1,149 @@
+@charset "UTF-8";
+*{
+	margin:  0;
+	padding: 0;
+}
+body{
+	background-color: #f6f6f6;
+}
+h1{
+	margin-top: 100px;
+	text-align: center;
+	color: #000000;
+	padding: 10px;
+	font-size: xx-large;
+}
+h6{
+	text-align: center;
+	margin-bottom: 10px;
+}
+a{
+	color: red;
+}
+form{
+	width: 800px;
+	background-color: white;
+	margin: auto;
+	display: block;
+}
+#jointable{
+	border-top: 2px solid #5f4b8b;
+	margin-bottom: 10px;
+	margin-top: 20px;
+}
+#jointable th, #jointable td{
+	font-size: 12px;
+	border-bottom: 1px solid lightgray;
+	padding: 20px;
+}
+#jointable th{
+	text-align: left;
+	width: 120px;
+}
+#jointable td{
+	width: 680px;
+}
+
+.box{
+	width: 200px;
+	height: 30px;
+	border: 1px solid lightgray;
+}
+/* ========================첫번째테이블↑====================== */
+#infotable1{
+	/* border: 1px solid lightgray; */
+}
+/* ========================두번째테이블↑====================== */
+.total1{
+	font-weight: bolder;
+	font-size: 15px;
+	/* border-bottom: 1px solid lightgray; */
+	padding: 10px;
+	
+}
+.total2{
+	font-weight: bolder;
+	font-size: 15px;
+	padding: 10px;
+	margin-top: 20px;
+	
+}
+textarea{
+	width: 730px;
+	height: 80px;
+	margin: auto 0;
+	margin-left: 18px;
+	margin-top: 10px;
+	padding: 10px;
+}
+/* ====================전체동의/이용약관↑======================= */
+#infotable2{
+	/* border: 1px solid lightgray; */
+	margin-bottom: 30px;
+	padding: 0px;
+}
+#infotable2 td, #infotable2 th{
+		height: 50px;
+		width:800px;
+		font-size: 12px;
+		text-align: center;
+		border-top: 1px solid lightgray;
+		border-collapse: collapse;
+		padding: 0px;
+			
+}
+/* ========================세번째테이블↑====================== */
+#overlap, .btn2{
+	width: 90px;
+	height: 32px;
+	background-color: #5f4b8b;
+	color: white;
+	border: none;
+	text-decoration: none;
+	text-align: center;
+	font-size: 12px;
+	display: inline-block;
+	margin-left: 10px;
+}
+#check{
+	width: 300px;
+	height: 40px;
+	margin: auto;
+	display: block;
+	font-weight: bolder;
+	margin-bottom: 200px;
+	border-radius: 5px;
+}
+/* ========================버튼류↑======================= */
+/* <!-- ================== TOP ==================== --> */
+.top{
+    display: none;
+    position: fixed;
+    bottom: 5%;
+    right: 30px;
+    width: 45px;
+    height: 35px;
+    padding: 8px;
+    overflow: hidden;
+    color: #fff;
+    text-align: center;
+    background: #000;
+    z-index: 1;
+}
+/* <!-- ================== TOP ==================== --> */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
